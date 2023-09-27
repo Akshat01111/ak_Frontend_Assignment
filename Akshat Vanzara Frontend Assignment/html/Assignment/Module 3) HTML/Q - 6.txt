@@ -1,0 +1,38 @@
+Q-6. What is the ‘class’ attribute in HTML? With Example.
+
+
+* Class in HTML: 
+
+        The class is an attribute that specifies one or more class names for an HTML element.
+        The class attribute can be used on any HTML element.
+        Classes allow CSS and JavaScript to select and access specific elements 
+
+* Example:
+
+<style>
+h1.a
+{
+color: red;
+}
+h1.b
+{
+color: blue;
+}
+p.a
+{
+color: red;
+}
+p.b
+{
+color:blue;
+}
+</style>
+
+<body>
+
+<h1 class=a>This is a Heading</h1>
+<h1 class=b> akshat </h1>
+<p class=a>This is a paragraph.</p>
+<p class=b> akshat </p>
+
+</body>

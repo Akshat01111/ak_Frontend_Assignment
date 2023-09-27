@@ -1,0 +1,15 @@
+Q-12. How to create a Hyperlink in HTML? With Example
+
+Ans. 
+     A basic link is created by wrapping the text or other content inside an <a> element and using the href attribute, also known as a Hypertext Reference, or target, that contains the web address.
+
+Example:
+
+<body>
+   
+<p>
+  I'm creating a link to
+  <a href=https://in.puma.com/>the puma homepage</a>.
+</p>
+
+</body>

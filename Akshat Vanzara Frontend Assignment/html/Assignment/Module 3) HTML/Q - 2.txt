@@ -1,0 +1,32 @@
+Q-2.  What are tags and attributes in HTML?
+
+* What Are HTML Tags?
+
+
+ ==>> HTML tags are what defines where an HTML element starts and where it ends. There is usually an opening bracket followed by the element’s name and, finally, a closing bracket.
+
+In most cases, there is always a start tag and an end tag enclosing an element. Nevertheless, that is not the case for all elements.
+
+As far as HTML is concerned, there are several types of a tag. The first one is the start tag. It contains two opposite angle brackets. Examples include:
+
+<title>
+<p>
+<b>
+The other one is the end tag. The similarity to the start tag, it has angle brackets. However, there is a forward slash after the first angle bracket. Examples of the end tags corresponding to the start tags above are as follows.
+
+</title>
+</p>
+</b>
+
+
+* What are HTML Attributes?
+
+
+ ==>> HTML attributes specify various additional properties to the existing HTML element.
+
+  Attributes contain additional pieces of information. Attributes take the form of an opening tag and additional info is placed inside.
+
+An example of an attribute is:
+
+<img src="mydog.jpg" alt="A photo of my dog.">
+In this instance, the image source (src) and the alt text (alt) are attributes of the <img> tag.

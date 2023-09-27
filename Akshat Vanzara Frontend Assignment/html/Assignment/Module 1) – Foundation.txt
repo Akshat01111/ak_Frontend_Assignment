@@ -1,0 +1,30 @@
+Q.1  Do search for web-site, http, URL etc given topics in lecture.
+ 
+
+1. What is web-site ?
+
+       * A collection of web pages and media over the internet is called a website.
+       * Websites are typically dedicated to a particular topic or purpose, such as news, education, commerce, entertainment or social networking.
+
+
+=> There are two types of web sites:
+
+    1.Static website
+    2.Dynamic website
+
+2. What is http ?
+
+    * Hypertext Transfer Protocol (HTTP) is a method for encoding and transporting information between a client and a web server. HTTP is the primary protocol for transmission of information across the Internet.
+
+    * Hypertext Transfer Protocol (HTTP) is the foundation of the World Wide Web, and is used to load web pages using hypertext links.
+
+3. What is URL ?
+
+    "URL (Uniform Resource Locator)"
+
+     * A URL  is a unique identifier used to locate a resource on the Internet. It is also referred to as a web address.
+
+=> There are two types of URL:
+
+   1.Absolute URL.
+   2.Relative URL.     

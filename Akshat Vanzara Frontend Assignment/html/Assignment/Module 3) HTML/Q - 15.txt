@@ -1,0 +1,16 @@
+Q-15. How to insert a picture into a background image of a web page? With Example.
+
+
+* We can also use CSS to set any image as the background of the webpage. To do so, we will need to specify the desired image’s location or URL to the background-image property.
+
+
+=> Example:
+
+    <style>
+        body
+        {
+            background: url(images/istockphoto-517188688-170667a.jpg) no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+        }    
+    </style>

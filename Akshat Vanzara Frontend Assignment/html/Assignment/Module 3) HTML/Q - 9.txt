@@ -1,0 +1,90 @@
+Q-9. How is Cell Padding different from Cell Spacing? With Example.
+
+
+** What is Cellpadding?
+
+      In HTML table formatting, cellpadding is the attribute which is used to set the whitespace between the cell edge and the cell content. In simple words, cellpadding is the attribute of the table tag (<table>) that set the distance between the cell border and cell content.
+
+Example:
+
+<body>
+<table align="center" border="1" cellspacing="9" width="70%">
+            <tr>
+                <caption>User Information</caption>
+            </tr>
+            <thead>
+                <tr>
+                    <th>#id</th>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>Address</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr align="center">
+                    <td>007</td>
+                    <td>james</td>
+                    <td>42</td>
+                    <td>jamesh007@gmail.com</td>
+                    <td>919909945045</td>
+                    <td>kalawad road,rajkot.</td>
+                
+                </tr>
+               
+            </tbody>
+
+            <tfoot>
+                <tr align="center">
+                    <td colspan="7">Copyright@2023 All right reserved certified company</td>
+                </tr>
+            </tfoot>
+
+        </table>
+</body>
+      
+** What is Cellspacing?
+
+       Cellspacing is something different from cellpadding. In HTML, cellspacing is yet another attribute of the table tag. It regulates the distance between the single cells in a table. By using this feature, developers might simply change the space between the edges of several adjacent cells. It enhances the table's readability. The cell border appears to increase as the number of cellspacing increases.      
+
+       Example:
+
+<body>
+
+<table align="center" border="1"  cellpadding="7" width="70%">
+            <tr>
+                <caption>User Information</caption>
+            </tr>
+            <thead>
+                <tr>
+                    <th>#id</th>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>Address</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr align="center">
+                    <td>007</td>
+                    <td>james</td>
+                    <td>42</td>
+                    <td>jamesh007@gmail.com</td>
+                    <td>919909945045</td>
+                    <td>kalawad road,rajkot.</td>
+                
+                </tr>     
+            </tbody>
+
+            <tfoot>
+                <tr align="center">
+                    <td colspan="7">Copyright@2023 All right reserved certified company</td>
+                </tr>
+            </tfoot>
+
+        </table>
+</body>

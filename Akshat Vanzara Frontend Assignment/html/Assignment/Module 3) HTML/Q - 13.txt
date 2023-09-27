@@ -1,0 +1,21 @@
+Q-13. What is the use of an iframe tag? With Example.
+
+
+* The iframe in HTML stands for Inline Frame. The ” iframe ” tag defines a rectangular region within the document in which the browser can display a separate document, including scrollbars The iframe is basically used to show a webpage inside the current web page. The ‘ src ‘ attribute is used to specify the URL of the document that occupies the iframe.
+
+
+Example:
+
+<body>
+
+    <iframe src="https://www.google.com/maps/embed?pb=!4v1695133266382!6m8!1m7!1swdeQCf4bnNK2D8ebs42sJQ!2m2!1d21.52337334356526!2d70.43265357075154!3f107.80268986917977!4f0!5f0.7820865974627469" width="50%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    
+</body>
+
+
+<body>
+
+    <iframe src="aboutus.html" width="48%" height="500px" frameborder="0"></iframe>
+    <iframe src="contactus.html" width="48%" height="500px" frameborder="0"></iframe>
+
+</body>

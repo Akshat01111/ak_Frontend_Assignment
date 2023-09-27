@@ -1,0 +1,14 @@
+Q-14. What is the use of a span tag? Explain with example?
+
+
+* The HTML span element is a generic inline container for inline elements and content. It is used to group elements for styling purposes (by using the class or id attributes), A better way to use it when no other semantic element is available.
+
+The span tag is a paired tag means it has both open(<) and closing (>) tags, and it is mandatory to close the tag. The span tag is used for the grouping of inline elements & this tag does not make any visual change by itself. span is very similar to the div tag, but div is a block-level tag and span is an inline tag.
+
+=> To change the language of a part of the text.
+=> To change the color, font, background of a part of text using CSS
+=> To apply the scripts to the particular part of the text.
+
+
+Example:
+         <h1><span style="color: rgb(226, 159, 33);">Mahendra</span> <span style="color: white;" >Singh</span> <span style="color: rgb(25, 105, 25);"> Dhoni</span></h1>

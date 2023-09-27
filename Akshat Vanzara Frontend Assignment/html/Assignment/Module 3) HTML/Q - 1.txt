@@ -1,0 +1,36 @@
+Q-1.  Are the HTML tags and elements the same thing?
+
+
+  * HTML Tags: The starting and ending point parts of an HTML document are HTML Tags, which start with < (less than) and end with >(greater than) angle bracket, and whatever is written inside the angle brackets are known as tags.
+
+    Both opening and closing tags must be there in order to function. There are also some self enclosing tags which require only one tag such as <hr>, <img>, <br> etc. The ending slash over here is optional.
+
+    => Example: This example shows how a paragraph tag is used (consist of both start and end) and <hr> tag (self-closing tag).
+
+    <!-- <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset='utf-8'>
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <title>Page Title</title>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+        <script src='main.js'></script>
+    </head>
+<body>
+	
+		<h2>Example</h2>
+        <hr>
+		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, consequuntur. Quam quisquam autem odit iure exercitationem quaerat sint voluptatem animi non suscipit commodi, dolore, velit vel perferendis corrupti ea dignissimos.<hr> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla eveniet sit quo perferendis, iste distinctio nostrum unde quos repudiandae commodi voluptate facilis ad assumenda recusandae officiis quae a alias reprehenderit?</p>
+	
+</body>
+
+</html> -->
+
+* HTML Element 
+
+ An HTML element is an individual component of an HTML document. It represents semantics, or meaning. 
+
+Most HTML elements are written with a start tag (or opening tag) and an end tag (or closing tag), with content in between.
+
+* For example, the title element represents the title of the document.

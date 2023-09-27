@@ -1,0 +1,63 @@
+Q-5. What are different types of lists in HTML? With Example
+
+* What are the types of lists in HTML?
+
+lists can be used to show different pieces of information that are related to each other. Listing the features of a particular product can be a simple example of a list. So, lists are important for showing any information on websites, which is why they are available in HTML.
+
+==>> There are three different types of list in HTML
+
+1.Ordered list 
+2.Unordered list 
+3.Nested list  
+
+* Example:
+
+1.Ordered list :
+                 <h1 style="margin-left: 2%;">Vegan Indian Street Foods List</h1>
+    <hr style="margin-right: 63%; width: 35%;">
+    <ol style="margin-left: 1%;">
+        <li>Pani Puri</li>
+        <li>Bhel Puri</li>
+        <li>Sev Puri</li>
+        <li>Samosa</li>
+        <li>Aloo Tikki</li>
+    </ol>
+
+
+2.Unordered list :
+                  <h2 style="margin-left: 2%;">Unorder List</h2>
+    <hr style="margin-right: 63%; width: 35%;">
+
+    <ul style="margin-left: 1%;">
+        <li>Parantha</li>
+        <li>Chhole Bhature</li>
+        <li>Vada Pav</li>
+        <li>Dabeli</li>
+        <li>Pav Bhaji</li>
+    </ul>
+    
+
+3.Nested list :
+               <h1 style="margin-left: 2%;">Nested List</h1>
+    <hr style="margin-right: 63%; width: 35%;">
+     <ol>
+         <li style="margin-left: 1%;"><b>IT Courses List</b></li>
+         <br>
+             <ul>
+                <li>Computer Science</li>
+                <li>Data Science</li>
+                <li>Digital Marketing</li>
+                <li>Artificial Intelligence</li>
+                <li>Software Development</li>
+             </ul>
+             <br>
+             <li style="margin-left: 1%;"><b>Non IT Courses List</b></li>
+             <br>
+                <ul>
+                    <li>Business Analyst</li>
+                    <li>Content Writer</li>
+                    <li>Growth Marketing</li>
+                    <li>Financial Analysis</li>
+                </ul>
+                
+     </ol>

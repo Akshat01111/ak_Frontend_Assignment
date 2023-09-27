@@ -1,0 +1,22 @@
+Q.2 Do search for domain, hosting, SEO etc.
+
+1. What is domain ?
+
+     * A domain is a network of computers and devices that are controlled by one set authority and have specific guidelines. More specifically, a domain is controlled by one particular company that has its own internet presence and IP address. 
+
+    ex: .com , .ac.in , .info , .in , .org
+
+2. What is hosting ?
+
+     * Hosting, in its most generic sense, is a service through which storage and computing resources are providing to an individual or organization for the accommodation and maintenance of one or more websites and related services. While hosting doesn’t need to be IP-based
+
+     * A web hosting is a generic term used to refer to a type of server that hosts websites and/or related data, applications, and services.
+
+3. What is SEO ?
+
+   * SEO ( Search Engine Optimization) 
+
+   *SEO is the practice of optimizing a website so that it ranks well on search engines.
+
+   * SEO means Search Engine Optimization and is the process used to optimize a website's technical configuration, content relevance and link popularity so its pages can become easily findable, more relevant and popular towards user search queries, and as a consequence, search engines rank them better.
+   

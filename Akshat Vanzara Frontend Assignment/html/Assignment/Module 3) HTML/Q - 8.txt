@@ -1,0 +1,19 @@
+Q-8. What are the various formatting tags in HTML?
+
+
+* HTML Formatting is a process of formatting text for better look and feel. HTML provides us ability to format text without using CSS. There are many formatting tags in HTML.
+
+The various formatting tags :
+                              1.<b>
+                              2.<strong>
+                              3.<mark>
+                              4.<i>
+                              5.<em>
+                              6.<u>
+
+Example of <b> and <mark> tag:
+                              <h1>my name:<mark> vanzara akshat</mark></h1>
+                              <p><b>This is a paragraph.</b></p>
+
+
+
