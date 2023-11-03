@@ -1,0 +1,19 @@
+Q-3. Semantic element in HTML5?
+
+    Ans:-
+
+    => The semantic elements added in HTML5 are:
+
+    <article>
+    <aside>
+    <details>
+    <figcaption>
+    <figure>
+    <footer>
+    <header>
+    <main>
+    <mark>
+    <nav>
+    <section>
+    <summary>
+    <time>

@@ -1,0 +1,53 @@
+Q-4.  Canvas and SVG tags
+
+    Ans:-
+
+  *  What is SVG?
+
+    The Scalable Vector Graphics (SVG) is an XML-based image format that is used to define two-dimensional vector based graphics for the web. Unlike raster image (e.g. .jpg, .gif, .png, etc.), a vector image can be scaled up or down to any extent without losing the image quality.
+
+    An SVG image is drawn out using a series of statements that follow the XML schema — that means SVG images can be created and edited with any text editor, such as Notepad. There are several other advantages of using SVG over other image formats like JPEG, GIF, PNG, etc.
+
+* example
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Embedding SVG in HTML</title>
+</head>
+<body>
+    <svg width="300" height="200">
+        <text x="10" y="20" style="font-size:14px;">
+            Your browser support SVG.
+        </text>
+        Sorry, your browser does not support SVG.
+    </svg>
+</body>
+</html>
+
+
+* What is Canvas?
+
+=> Canvas has poor scalability. Hence it is not suitable for printing on higher resolution
+=> Canvas gives better performance with smaller surface or larger number of objects.
+=> Canvas can be modified through script only
+=> Canvas is raster based and composed of pixel.
+
+* example
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML5 Canvas Tag</title>
+   </head>
+   <body>
+      <canvas id = "newCanvas" width = "200" height = "100" style = "border:1px solid #000000;"></canvas>
+      <script>
+         var c = document.getElementById('newCanvas');
+         var ctx = c.getContext('2d');
+         ctx.fillStyle = '#7cce2b';
+         ctx.fillRect(0,0,300,100);
+      </script>
+   </body>
+</html>

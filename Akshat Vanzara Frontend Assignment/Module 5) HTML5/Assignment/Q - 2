@@ -1,0 +1,26 @@
+Q-2. How to embed audio and video in a webpage?
+
+    Ans:-
+
+=> How to embed video in a webpage:-
+
+    -> In previous version of HTML, videos were embedded into the site via third-party plugins, such as QuickTime, RealPlayer or Flash. HTML5 has a new <video> tag, which is used to insert a video into the web page.
+
+<body>
+    <video controls width="400" height="300" style="float: left; padding: 15px;" poster="ms img/mahi.webp">
+    <source src="ms dhoni video/MS-Dhoni.mp4" type="video/mp4">
+     </video>
+</body>
+
+
+=> How to embed audio in a webpage:-
+
+    -> As not all browsers support all audio formats, the audio file is encoded/decoded with an audio codec (a digital electronic device or computer-based software application that aids in the compression and decompression of a digital audio data). All formats of audio files are added simultaneously via the <source> element with the src attribute.
+
+    <body>
+        <audio controls>
+          <source src="/build/audios/jingle_bells.ogg" type="audio/ogg">
+          <source src="/build/audios/audio.mp3" type="audio/mpeg">
+        </audio>
+        <p>Click the play button</p>
+      </body>    
